@@ -1,6 +1,4 @@
-Project README
-
-Project Overview
+# Project Overview
 
 This project utilizes Pentaho Data Integration (PDI) to extract, transform, and load data from various sources into a centralized data warehouse. The goal of this project is to create a unified data repository that enables efficient data analysis, reporting, and business intelligence.
 
